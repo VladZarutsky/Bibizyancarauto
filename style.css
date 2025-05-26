@@ -1,0 +1,1223 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+.gray{
+	width: 100%;
+	height: 140px;
+	background-color: #010343;
+	position: absolute;
+	top: 0%;
+	z-index: -1;
+}
+.logo{
+	width: 5%;
+	height: 45px;
+	background-image: url(logo.png);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 18%;
+	top: 4%;
+}
+.name{
+	width: 35%;
+	height: 40px;
+	font-size: 47px;
+	position: absolute;
+	left: 5%;
+	top: 3%;
+	font-family: "Arial";
+	color: white;
+}
+.doplogo{
+	width: 25%;
+	height: 40px;
+	font-size: 20px;
+	position: absolute;
+	left: 4.5%;
+	top: 10%;
+	color: gray;
+}
+.gl{
+	width: 6%;
+	height: 27px;
+	font-size: 27px;
+	position: absolute;
+	left: 31%;
+	top: 5.5%;
+	color: white;
+	text-align: center;
+	align-content: center;
+}
+.auto{
+	width: 8%;
+	height: 25px;
+	font-size: 27px;
+	position: absolute;
+	left: 39.5%;
+	top: 5.5%;
+	color: white;
+	text-align: center;
+	align-content: center;
+}
+.ok{
+	width: 9%;
+	height: 27px;
+	font-size: 27px;
+	position: absolute;
+	left: 50.5%;
+	top: 5.5%;
+	color: white;
+	text-align: center;
+	align-content: center;
+}
+.ysl{
+	width: 6%;
+	height: 27px;
+	font-size: 27px;
+	position: absolute;
+	left: 61%;
+	top: 5.5%;
+	color: white;
+	text-align: center;
+	align-content: center;
+}
+.mar{
+	width: 5.8%;
+	height: 27px;
+	font-size: 27px;
+	position: absolute;
+	left: 68.5%;
+	top: 5.5%;
+	color: white;
+	text-align: center;
+	align-content: center;
+}
+.zap{
+	width: 11%;
+	height: 45px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #FC2B2B;
+	font-size: 22px;
+	position: absolute;
+	left: 79%;
+	top: 4.7%;
+	color: white;
+	text-align: center;
+	align-content: center;
+}
+.am{
+	width: 2%;
+	height: 50px;
+	color: white;
+	position: absolute;
+	left: 1%;
+	top: 3.5%;
+	font-size: 100px;
+	line-height: 1.2vh;
+	color: white;
+}
+.bigblack{
+	width: 50%;
+	height: 700px;
+	background-color: #01013A;
+	position: absolute;
+	top: 14.7%;
+}
+.text1{
+	width: 75%;
+	height: 55px;
+	color: white;
+	position: absolute;
+	left: 3%;
+	top: 15%;
+	font-size: 40px;
+	font-weight: bold;
+}
+.text2{
+	width: 75%;
+	height: 55px;
+	color: white;
+	position: absolute;
+	left: 3%;
+	top: 30.5%;
+	font-size: 40px;
+	font-weight: bold;
+}
+.text3{
+	width: 75%;
+	height: 55px;
+	color: white;
+	position: absolute;
+	left: 3%;
+	top: 55%;
+	font-size: 22px;
+}
+.text4{
+	width: 75%;
+	height: 55px;
+	color: gray;
+	position: absolute;
+	left: 3%;
+	top: 70%;
+	font-size: 22px;
+}
+.img1{
+    width: 50%;
+	height: 700px;
+	background-image: url(sportcar2.webp);
+	background-size: cover;
+	background-position: center;
+	position: absolute;
+	left: 50%;
+	top: 14.7%;
+}
+.na{
+	width: 30%;
+	height: 50px;
+	position: absolute;
+	left: 3%;
+	top: 92%;
+	font-size: 44px;
+	font-weight: bold;
+}
+.blockn1{
+	width: 30%;
+	height: 430px;
+	position: absolute;
+	left: 3%;
+	top: 108%;
+	background-color: #EFEFEF;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #DDDDDD;
+	border-radius: 5%;
+}
+.block1{
+	width: 99%;
+	height: 225px;
+	position: absolute;
+	left: 0%;
+	top: 0%;
+	border-width: 2px;
+	border-style: solid;
+	border-radius: 5%;
+	background-image: url(sportcar1.webp);
+	background-size: cover;
+	background-position: center;
+}
+.name1{
+	width: 80%;
+	height: 30px;
+	position: absolute;
+	left: 2%;
+	top: 54%;
+	font-size: 27px;
+	font-weight: bold;
+}
+.buy1{
+	width: 80%;
+	height: 30px;
+	position: absolute;
+	left: 2%;
+	top: 61.6%;
+	font-size: 27px;
+	font-weight: bold;
+	color: red;
+}
+.btn1{
+	width: 96%;
+	height: 44px;
+	background-color: #A43333;
+	position: absolute;
+	left: 2%;
+	top: 75%;
+	font-size: 22px;
+	color: white;
+	text-align: center;
+	align-content: center;
+}
+.btn1:hover{
+	cursor: pointer;
+	transform: scale(1.03);
+}
+.btn2:hover{
+	cursor: pointer;
+	transform: scale(1.03);
+}
+.btn3:hover{
+	cursor: pointer;
+	transform: scale(1.03);
+}
+.btn4:hover{
+	cursor: pointer;
+	transform: scale(1.03);
+}
+.btn5:hover{
+	cursor: pointer;
+	transform: scale(1.03);
+}
+.bbcar1{
+	width: 80%;
+	height: 30px;
+	position: absolute;
+	left: 2%;
+	top: 90%;
+	font-size: 22px;
+	font-weight: bold;
+	color: gray;
+}
+.blockn2{
+	width: 30%;
+	height: 430px;
+	position: absolute;
+	left: 35%;
+	top: 108%;
+	background-color: #EFEFEF;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #DDDDDD;
+	border-radius: 5%;
+}
+.block2{
+	width: 99%;
+	height: 225px;
+	position: absolute;
+	left: 0%;
+	top: 0%;
+	border-width: 2px;
+	border-style: solid;
+	border-radius: 5%;
+	background-image: url(sportcar3.webp);
+	background-size: cover;
+	background-position: center;
+}
+.name2{
+	width: 99%;
+	height: 30px;
+	position: absolute;
+	left: 2%;
+	top: 54%;
+	font-size: 27px;
+	font-weight: bold;
+}
+.buy2{
+	width: 80%;
+	height: 30px;
+	position: absolute;
+	left: 2%;
+	top: 61.6%;
+	font-size: 27px;
+	font-weight: bold;
+	color: red;
+}
+.btn2{
+	width: 96%;
+	height: 44px;
+	background-color: #A43333;
+	position: absolute;
+	left: 2%;
+	top: 75%;
+	font-size: 22px;
+	color: white;
+	text-align: center;
+	align-content: center;
+}
+.bbcar2{
+	width: 80%;
+	height: 30px;
+	position: absolute;
+	left: 2%;
+	top: 90%;
+	font-size: 22px;
+	font-weight: bold;
+	color: gray;
+}
+.blockn3{
+	width: 30%;
+	height: 430px;
+	position: absolute;
+	left: 67%;
+	top: 108%;
+	background-color: #EFEFEF;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #DDDDDD;
+	border-radius: 5%;
+}
+.block3{
+	width: 99%;
+	height: 225px;
+	position: absolute;
+	left: 0%;
+	top: 0%;
+	border-width: 2px;
+	border-style: solid;
+	border-radius: 5%;
+	background-image: url(sportcar4.webp);
+	background-size: cover;
+	background-position: center;
+}
+.name3{
+	width: 99%;
+	height: 30px;
+	position: absolute;
+	left: 2%;
+	top: 54%;
+	font-size: 27px;
+	font-weight: bold;
+}
+.buy3{
+	width: 80%;
+	height: 30px;
+	position: absolute;
+	left: 2%;
+	top: 61.6%;
+	font-size: 27px;
+	font-weight: bold;
+	color: red;
+}
+.btn3{
+	width: 96%;
+	height: 44px;
+	background-color: #A43333;
+	position: absolute;
+	left: 2%;
+	top: 75%;
+	font-size: 22px;
+	color: white;
+	text-align: center;
+	align-content: center;
+}
+.bbcar3{
+	width: 80%;
+	height: 30px;
+	position: absolute;
+	left: 2%;
+	top: 90%;
+	font-size: 22px;
+	font-weight: bold;
+	color: gray;
+}
+.blockn4{
+	width: 30%;
+	height: 430px;
+	position: absolute;
+	left: 3%;
+	top: 165%;
+	background-color: #EFEFEF;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #DDDDDD;
+	border-radius: 5%;
+}
+.block4{
+	width: 99%;
+	height: 225px;
+	position: absolute;
+	left: 0%;
+	top: 0%;
+	border-width: 2px;
+	border-style: solid;
+	border-radius: 5%;
+	background-image: url(sportcar5.webp);
+	background-size: cover;
+	background-position: center;
+}
+.name4{
+	width: 99%;
+	height: 30px;
+	position: absolute;
+	left: 2%;
+	top: 54%;
+	font-size: 27px;
+	font-weight: bold;
+}
+.buy4{
+	width: 80%;
+	height: 30px;
+	position: absolute;
+	left: 2%;
+	top: 68.9%;
+	font-size: 27px;
+	font-weight: bold;
+	color: red;
+}
+.btn4{
+	width: 96%;
+	height: 44px;
+	background-color: #A43333;
+	position: absolute;
+	left: 2%;
+	top: 79%;
+	font-size: 22px;
+	color: white;
+	text-align: center;
+	align-content: center;
+}
+.bbcar4{
+	width: 80%;
+	height: 30px;
+	position: absolute;
+	left: 2%;
+	top: 92%;
+	font-size: 22px;
+	font-weight: bold;
+	color: gray;
+}
+.blockn5{
+	width: 30%;
+	height: 430px;
+	position: absolute;
+	left: 35%;
+	top: 165%;
+	background-color: #EFEFEF;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #DDDDDD;
+	border-radius: 5%;
+}
+.block5{
+	width: 99%;
+	height: 225px;
+	position: absolute;
+	left: 0%;
+	top: 0%;
+	border-width: 2px;
+	border-style: solid;
+	border-radius: 5%;
+	background-image: url(sportcar6.webp);
+	background-size: cover;
+	background-position: center;
+}
+.name5{
+	width: 99%;
+	height: 30px;
+	position: absolute;
+	left: 2%;
+	top: 54%;
+	font-size: 27px;
+	font-weight: bold;
+}
+.buy5{
+	width: 80%;
+	height: 30px;
+	position: absolute;
+	left: 2%;
+	top: 68.9%;
+	font-size: 27px;
+	font-weight: bold;
+	color: red;
+}
+.btn5{
+	width: 96%;
+	height: 44px;
+	background-color: #A43333;
+	position: absolute;
+	left: 2%;
+	top: 79%;
+	font-size: 22px;
+	color: white;
+	text-align: center;
+	align-content: center;
+}
+.bbcar5{
+	width: 80%;
+	height: 30px;
+	position: absolute;
+	left: 2%;
+	top: 92%;
+	font-size: 22px;
+	font-weight: bold;
+	color: gray;
+}
+.ob{
+	width: 15%;
+	height: 35px;
+	font-size: 45px;
+	position: absolute;
+	left: 45.9%;
+	top: 110%;
+	font-family: "Arial";
+}
+.ak{
+	width: 7%;
+	height: 27px;
+	font-size: 29px;
+	position: absolute;
+	left: 68%;
+	top: 5%;
+	color: white;
+}
+.ak:hover{
+	cursor: pointer;
+	transform: scale(1.1);
+}
+.ok:hover{
+	cursor: pointer;
+	transform: scale(1.1);
+}
+.number:hover{
+	cursor: pointer;
+	transform: scale(1.1);
+}
+.profile{
+	width: 5%;
+	height: 10vh;
+	background-image: url(profilenew.png);
+	background-size: cover;
+	background-position: center;
+	position: absolute;
+	left: 94%;
+	top: 2%;
+}
+.bigwhite{
+	width: 100%;
+	height: 720px;
+	background-color: #F7F7F7;
+	position: absolute;
+	left: 0%;
+	top: 220.5%;
+}
+.onas{
+	width: 30%;
+	height: 50px;
+	position: absolute;
+	left: 3%;
+	top: 11%;
+	font-size: 44px;
+	font-weight: bold;
+}
+.textonas1{
+	width: 50%;
+	height: 150px;
+	font-size: 20.7px;
+	color: #8D8D8D;
+	position: absolute;
+	left: 3%;
+	top: 20%;
+}
+.textonas2{
+	width: 50%;
+	height: 30px;
+	font-size: 20.7px;
+	color: #8D8D8D;
+	position: absolute;
+	left: 3%;
+	top: 80%;
+}
+.box1onas{
+	width: 16.65%;
+	height: 200px;
+	background-color: #F7F7F7;
+	color: #EF2F2F;
+	font-size: 54px;
+	position: absolute;
+	left: 2%;
+	top: 47.7%;
+	text-align: center;
+	align-content: center;
+	font-weight: bold;
+}
+.txt1{
+	width: 90%;
+	height: 27px;
+	color: #575757;
+	font-size: 22px;
+	text-align: center;
+	align-content: center;
+	position: absolute;
+	left: 4%;
+	top: 54%;
+
+}
+.box2onas{
+	width: 16.65%;
+	height: 200px;
+	background-color: #F7F7F7;
+	color: #EF2F2F;
+	font-size: 54px;
+	position: absolute;
+	left: 18.65%;
+	top: 47.7%;
+	text-align: center;
+	align-content: center;
+	font-weight: bold;
+}
+.txt2{
+	width: 90%;
+	height: 27px;
+	color: #575757;
+	font-size: 22px;
+	text-align: center;
+	align-content: center;
+	position: absolute;
+	left: 4%;
+	top: 54%;
+}
+.box3onas{
+	width: 16.65%;
+	height: 200px;
+	background-color: #F7F7F7;
+	color: #EF2F2F;
+	font-size: 54px;
+	position: absolute;
+	left: 36%;
+	top: 47.7%;
+	text-align: center;
+	align-content: center;
+	font-weight: bold;
+}
+.txt3{
+	width: 90%;
+	height: 27px;
+	color: #575757;
+	font-size: 22px;
+	text-align: center;
+	align-content: center;
+	position: absolute;
+	left: 4%;
+	top: 54%;
+
+}
+.number{
+	width: 18%;
+	height: 35px;
+	color: #575757;
+	font-size: 30px;
+	color: red;
+	text-align: center;
+	align-content: center;
+	position: absolute;
+	left: 15.3%;
+	top: 90%;
+}
+.email{
+	width: 90%;
+	height: 27px;
+	color: #575757;
+	font-size: 30px;
+	color: red;
+	text-align: center;
+	align-content: center;
+	position: absolute;
+	left: -2%;
+	top: 90%;
+}
+.vk{
+	width: 2.5%;
+	height: 50px;
+	background-image: url(vk2.png);
+	background-size: cover;
+	background-position: center;
+	position: absolute;
+	left: 2%;
+	top: 88%;
+}
+.tg{
+	width: 2.5%;
+	height: 50px;
+	background-image: url(tg1.jpeg);
+	background-size: cover;
+	background-position: center;
+	position: absolute;
+	left: 5.5%;
+	top: 88%;
+}
+.fb{
+	width: 2.5%;
+	height: 57px;
+	background-image: url(fb1.png);
+	background-size: cover;
+	background-position: center;
+	position: absolute;
+	left: 9%;
+	top: 87.6%;
+}
+.insta{
+	width: 2.5%;
+	height: 62px;
+	background-image: url(insta.avif);
+	background-size: cover;
+	background-position: center;
+	position: absolute;
+	left: 12.5%;
+	top: 87.4%;
+}
+.imglog{
+	width: 45%;
+	height: 675px;
+	background-image: url(bibizyansportcar.jpg);
+	background-size: cover;
+	background-position: center;
+	position: absolute;
+	left: 54%;
+	top: 3%;
+}
+.vbyslygi{
+	width: 30%;
+	height: 50px;
+	position: absolute;
+	left: 3%;
+	top: 300%;
+	font-size: 44px;
+	font-weight: bold;
+}
+.box1{
+	width: 22.5%;
+	height: 250px;
+	background-color: #FCFCFC;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+	font-size: 30px;
+	color: black;
+	font-weight: bold;
+	text-align: center;
+	align-content: center;
+	position: absolute;
+	left: 2.8%;
+	top: 313.2%;
+	border-radius: 5%;
+}
+.imgbox1{
+	width: 43%;
+	height: 75px;
+	background-image: ;
+}
+.textbox1{
+	font-size: 30px;
+	font-weight: bold;
+	position: absolute;
+	left: 17.5%;
+	top: 63%;
+}
+.box2{
+	width: 22.5%;
+	height: 250px;
+	background-color: #FCFCFC;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+	position: absolute;
+	left: 25.5%;
+	top: 313.2%;
+	border-radius: 5%;
+}
+.imgbox2{
+	width: 80%;
+	height: 100px;
+	background-image: url(tradein.jpg);
+	background-size: cover;
+	background-position: center;
+	position: absolute;
+	left: 11%;
+	top: 8%;
+}
+.textbox2{
+	font-size: 30px;
+	font-weight: bold;
+	position: absolute;
+	left: 39%;
+	top: 63%;
+}
+.box3{
+	width: 22.5%;
+	height: 250px;
+	background-color: #FCFCFC;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+	font-size: 30px;
+	color: black;
+	font-weight: bold;
+	text-align: center;
+	align-content: center;
+	position: absolute;
+	left: 48%;
+	top: 313.2%;
+	border-radius: 5%;
+}
+.imgbox3{
+	width: 36%;
+	height: 135px;
+	background-image: url(card2.png);
+	background-size: cover;
+	background-position: center;
+	position: absolute;
+	left: 30%;
+	top: 5%;
+}
+.textbox3{
+	font-size: 30px;
+	font-weight: bold;
+	position: absolute;
+	left: 40%;
+	top: 63%;
+}
+.box4{
+	width: 22.5%;
+	height: 250px;
+	background-color: #FCFCFC;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+	font-size: 30px;
+	color: black;
+	font-weight: bold;
+	text-align: center;
+	align-content: center;
+	position: absolute;
+	left: 70.5%;
+	top: 313.2%;
+	border-radius: 5%;
+}
+.logobox4{
+	width: 30%;
+	height: 117px;
+	background-image: url(logo.png);
+	background-size: cover;
+	background-position: center;
+	position: absolute;
+	left: 34.2%;
+	top: 5%;
+}
+.textbox4{
+	font-size: 30px;
+	font-weight: bold;
+	position: absolute;
+	left: 30%;
+	top: 49%;
+}
+.box4txt{
+	width: 90%;
+	height: 25x;
+	font-size: 21.6px;
+	color: #858585;
+	font-weight: bold;
+	position: absolute;
+	left: 3%;
+	top: 60%;
+}
+.marks{
+	width: 100%;
+	height: 400px;
+	background-color: #F7F7F7;
+	position: absolute;
+	left: 0%;
+	top: 350%;
+}
+.marki{
+	width: 30%;
+	height: 50px;
+	position: absolute;
+	left: 3%;
+	top: 13%;
+	font-size: 44px;
+	font-weight: bold;
+}
+.m1{
+	width: 15%;
+	height: 50px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #575757;
+	font-size: 28px;
+	text-align: center;
+	align-content: center;
+	position: absolute;
+	left: 3%;
+	top: 36%;
+}
+.mm1{
+	text-decoration: none;
+	color: black;
+}
+.imgm1{
+	width: 18%;
+	height: 40px;
+	background-image: url(mersedesz.webp);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 1%;
+	top: 10%;
+}
+.m2{
+	width: 15%;
+	height: 50px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #575757;
+	font-size: 28px;
+	text-align: center;
+	align-content: center;
+	position: absolute;
+	left: 3%;
+	top: 53%;
+}
+.mm2{
+	color: black;
+	text-decoration: none;
+}
+.imgm2{
+	width: 18%;
+	height: 40px;
+	background-image: url(bmwz.png);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 1%;
+	top: 10%;
+}
+.m3{
+	width: 15%;
+	height: 50px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #575757;
+	font-size: 28px;
+	text-align: center;
+	align-content: center;
+	position: absolute;
+	left: 3%;
+	top: 68%;
+}
+.mm3{
+	color: black;
+	text-decoration: none;
+}
+.imgm3{
+	width: 18%;
+	height: 40px;
+	background-image: url(nissanlogo.png);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 1%;
+	top: 10%;
+}
+.m4{
+	width: 15%;
+	height: 50px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #575757;
+	font-size: 28px;
+	text-align: center;
+	align-content: center;
+	position: absolute;
+	left: 23%;
+	top: 36%;
+}
+.mm4{
+	color: black;
+	text-decoration: none;
+}
+.imgm4{
+	width: 18%;
+	height: 40px;
+	background-image: url(cherylogo1.jpeg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 1%;
+	top: 10%;
+}
+.m5{
+	width: 15%;
+	height: 50px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #575757;
+	font-size: 28px;
+	text-align: center;
+	align-content: center;
+	position: absolute;
+	left: 23%;
+	top: 53%;
+}
+.mm5{
+	color: black;
+	text-decoration: none;
+}
+.imgm5{
+	width: 18%;
+	height: 43px;
+	background-image: url(changanlogo.jpeg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 1%;
+	top: 10%;
+}
+.m6{
+	width: 15%;
+	height: 50px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #575757;
+	font-size: 28px;
+	text-align: center;
+	align-content: center;
+	position: absolute;
+	left: 23%;
+	top: 68%;
+}
+.mm6{
+	color: black;
+	text-decoration: none;
+}
+.imgm6{
+	width: 18%;
+	height: 40px;
+	background-image: url(volkswagenz.png);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 1%;
+	top: 10%;
+}
+.m7{
+	width: 15%;
+	height: 50px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #575757;
+	font-size: 28px;
+	text-align: center;
+	align-content: center;
+	position: absolute;
+	left: 44%;
+	top: 36%;
+}
+.mm7{
+	color: black;
+	text-decoration: none;
+}
+.imgm7{
+	width: 18%;
+	height: 47px;
+	background-image: url(ladaz.jpeg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 1%;
+	top: 5%;
+}
+.m8{
+	width: 15%;
+	height: 50px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #575757;
+	font-size: 28px;
+	text-align: center;
+	align-content: center;
+	position: absolute;
+	left: 44%;
+	top: 53%;
+}
+.mm8{
+	color: black;
+	text-decoration: none;
+}
+.imgm8{
+	width: 22.5%;
+	height: 40px;
+	background-image: url(audiz.png);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 1%;
+	top: 10%;
+}
+.m9{
+	width: 15%;
+	height: 50px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #575757;
+	font-size: 28px;
+	text-align: center;
+	align-content: center;
+	position: absolute;
+	left: 44%;
+	top: 68%;
+}
+.mm9{
+	color: black;
+	text-decoration: none;
+}
+.imgm9{
+	width: 18%;
+	height: 40px;
+	background-image: url(toyotaz.png);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 1%;
+	top: 10%;
+}
+.ak:hover{
+	cursor: pointer;
+	transform: scale(1.1);
+}
+.ok:hover{
+	cursor: pointer;
+	transform: scale(1.1);
+}
+.gl:hover{
+	cursor: pointer;
+	transform: scale(1.1);
+}
+.auto:hover{
+	cursor: pointer;
+	transform: scale(1.1);
+}
+.ysl:hover{
+	cursor: pointer;
+	transform: scale(1.1);
+}
+.mar:hover{
+	cursor: pointer;
+	transform: scale(1.1);
+}
+.zap:hover{
+	cursor: pointer;
+	transform: scale(1.1);
+	background-color: red;
+	opacity: 80%;
+}
+.slider{
+	margin: 0 auto; /* центрируем слайдер*/
+	max-width: 1520px;
+	padding: 80px 30px;
+	position: absolute;
+	left: 3%;
+	top: 392%;
+
+}
+.slide{
+	height: 380px;
+	border-radius: 10px;
+}
+scroll-slider-track{
+	gap: 5px;
+}
+.btnwin{
+	cursor: pointer;
+	transform: scale(1.05);
+}
